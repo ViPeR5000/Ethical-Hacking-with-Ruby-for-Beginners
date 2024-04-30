@@ -32,27 +32,26 @@ Content
 Chapter 1: System Hacking with Ruby
 6 Videos
 
-File Manipulation
-Parsing HTML, JSON, YAML, XML, TOML
-Command Execution
-Interact with Files in the /etc Directory on Unix Systems
-String Conversion / Encoding
-$3.5 Million Cybersecurity Scholarship by EC-Council
-Chapter 1 Quiz
-Preview
+[*]File Manipulation
+[*]Parsing HTML, JSON, YAML, XML, TOML
+[*]Command Execution
+[*]Interact with Files in the /etc Directory on Unix Systems
+[*]String Conversion / Encoding
+[*]$3.5 Million Cybersecurity Scholarship by EC-Council
+[*]Chapter 1 Quiz
+
 
 Chapter 2: Web Hacking with Ruby
 9 Videos
 
-Databases
-Browser Instrumentation
-SQL and NoSQL Injection
-Interacting with APIs
-Creating a Burp Suite Extension
-Web Server
-Web Fuzzing
-Targeting Ruby on Rails & Brakeman Usage
-Bonus: URL Encoding / Decoding & HTML Escaping / Unescaping
-Chapter 2 Quiz
-Preview
+[*]Databases
+[*]Browser Instrumentation
+[*]SQL and NoSQL Injection
+[*]Interacting with APIs
+[*]Creating a Burp Suite Extension
+[*]Web Server
+[*]Web Fuzzing
+[*]Targeting Ruby on Rails & Brakeman Usage
+[*]Bonus: URL Encoding / Decoding & HTML Escaping / Unescaping
+[*]Chapter 2 Quiz
 
