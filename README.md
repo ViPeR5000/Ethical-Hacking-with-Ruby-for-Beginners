@@ -14,7 +14,7 @@ Ideally, you have a bit of experience in ethical hacking and have basics in Ruby
 The necessary resources for this course are in the "Resources" section of Video 1.1. You can also access them through this direct link - https://github.com/ec-council-learning/Ethical-Hacking-with-Ruby-for-Beginners
 
 
-What You Will Learn
+##What You Will Learn
 
 Learn to hack websites, network protocols and systems with Ruby.
 
@@ -28,30 +28,32 @@ Familiarize with existing open source infosec Ruby tools and libraries.
 Prerequisites
 Basic experience in ethical hacking
 Basic knowledge of Ruby or another object-oriented programming language like Python or Perl.
-Content
-Chapter 1: System Hacking with Ruby
+###Content
+
+##Chapter 1: System Hacking with Ruby
 6 Videos
 
-[*]File Manipulation
-[*]Parsing HTML, JSON, YAML, XML, TOML
-[*]Command Execution
-[*]Interact with Files in the /etc Directory on Unix Systems
-[*]String Conversion / Encoding
-[*]$3.5 Million Cybersecurity Scholarship by EC-Council
-[*]Chapter 1 Quiz
+File Manipulation
+Parsing HTML, JSON, YAML, XML, TOML
+Command Execution
+Interact with Files in the /etc Directory on Unix Systems
+String Conversion / Encoding
+$3.5 Million Cybersecurity Scholarship by EC-Council
+Chapter 1 Quiz
+Preview
 
-
-Chapter 2: Web Hacking with Ruby
+##Chapter 2: Web Hacking with Ruby
 9 Videos
 
-[*]Databases
-[*]Browser Instrumentation
-[*]SQL and NoSQL Injection
-[*]Interacting with APIs
-[*]Creating a Burp Suite Extension
-[*]Web Server
-[*]Web Fuzzing
-[*]Targeting Ruby on Rails & Brakeman Usage
-[*]Bonus: URL Encoding / Decoding & HTML Escaping / Unescaping
-[*]Chapter 2 Quiz
+Databases
+Browser Instrumentation
+SQL and NoSQL Injection
+Interacting with APIs
+Creating a Burp Suite Extension
+Web Server
+Web Fuzzing
+Targeting Ruby on Rails & Brakeman Usage
+Bonus: URL Encoding / Decoding & HTML Escaping / Unescaping
+Chapter 2 Quiz
+Preview
 
